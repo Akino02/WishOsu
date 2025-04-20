@@ -1,5 +1,5 @@
 # Wish Osu
-[Play](https://akino02.github.io/osu/)
+[Play](https://akino02.github.io/WishOsu/)
 #
 <h2>1.5</h1>
 <p>Difficulty for Osu masters</p>
